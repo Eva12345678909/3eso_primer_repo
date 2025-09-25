@@ -1,6 +1,17 @@
 # Repositorio para probar github
-Repositorio creado en clase de CyR en 3 de la ESO en el IES José de Mora
+Repositorio creado en clase de CyR en 3 de la ESO en el **IES José de Mora**
 
 ## Presentación
-Me llamo Eva y soy alumna de 3 de la ESO
+Me llamo ***Eva*** y soy alumna de 3 de la ESO
 
+### Citas
+> Esto es una cita.
+
+### Listas
+- Lista1
+- Lista2
+- Lista3
+
+1. Enum1
+2. Enum2
+3. Enum3
